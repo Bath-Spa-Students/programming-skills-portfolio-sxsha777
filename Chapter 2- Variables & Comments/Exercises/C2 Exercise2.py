@@ -5,5 +5,7 @@ y="     sasha  "
 print(y)
 a=y.lstrip()
 b=y.rstrip()
+c=y.strip()
 print(a)
 print(b)
+print(c)
